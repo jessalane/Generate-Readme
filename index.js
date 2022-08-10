@@ -1,6 +1,6 @@
 const { prompt } = require('inquirer');
 const fs = require('fs');
-const genMarkdown = require('./generateStructure.js');
+const create = require('./generateStructure.js');
 
 prompt([
     {
@@ -30,5 +30,5 @@ prompt([
     },
 ])
 .then(response => {
-    fs.writeFileSync(`README.md`, genMarkdown(response));
+    fs.writeFileSync(`README.md`, create.genMarkdown(response));
 });
