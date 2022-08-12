@@ -1,9 +1,8 @@
-const genMarkdown = (response) => {
-    `# ${response.title}
+const genMarkdown = (data) => {
+   return `# ${data.title}
 
     ## Description
-
-    ${response.description}
+    ${data.description}
 
     ## Table of Contents
         - [Installation](#installation)
@@ -12,32 +11,32 @@ const genMarkdown = (response) => {
         - [License](#license)
 
     ## Installation
-
-    ${response.installation}
+    ${data.installation}
 
     ## Usage
-
-    ${response.usage}
-    ![alt text](${response.screenshot})
-
+    ${data.usage}
+    ![alt text](${data.screenshot})
+    
     ## Credits
-
-    ${response.credits}
+    ${data.credits}
 
     ## License
-    ${response.license}
+    ${data.license}
     [https://choosealicense.com/](https://choosealicense.com/).
 
     ---
 
-    ## How to Contribute
+    ## Questions
+    If you have further questions please reach out to me through the methods listed below:
+    email: ${data.email}
+    GitHub: ${data.github}
 
-    ${response.contribute}
+    ## How to Contribute
+    ${data.contribute}
     The [Contributor Covenant](https://www.contributor-covenant.org/)
 
     ## Tests
-    ${response.tests}
-    Go the extra mile and write tests for your application. Then provide examples on how to run them here.`
+    ${data.tests}`
 }
 
 module.exports = genMarkdown;
