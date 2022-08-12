@@ -22,7 +22,6 @@ const genMarkdown = (data) => {
 
     ## License
     ${data.license}
-    [https://choosealicense.com/](https://choosealicense.com/).
 
     ---
 
