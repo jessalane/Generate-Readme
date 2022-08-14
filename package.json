@@ -1,23 +1,23 @@
 {
-  "name": "generate-readme",
+  "name": "static-site",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jessalane/Generate-Readme.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/jessalane/Generate-Readme/issues"
   },
   "homepage": "https://github.com/jessalane/Generate-Readme#readme",
-  "dependencies": {
-    "inquirer": "^8.2.4"
-  }
+  "description": ""
 }

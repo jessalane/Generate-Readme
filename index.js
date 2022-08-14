@@ -1,8 +1,10 @@
-const { prompt } = require('inquirer');
+// TODO: Include packages needed for this application
+const inquirer = require('inquirer');
 const fs = require('fs');
-let genMarkdown = require('./generateStructure.js');
+let markdown = require('./utils/generateMarkdown.js');
 
-prompt([
+// TODO: Create an array of questions for user input
+const questions = [
     {
         type: 'input',
         message: 'What is your project title?',
@@ -56,10 +58,26 @@ prompt([
     },
     {
         type: 'input',
-        message: 'What tests have you created, and how can they be run?',
+        message: 'How do you test this application?',
         name: 'tests',
     },
-])
-.then(data => {
-    fs.writeFileSync(`README.md`, genMarkdown(data));
-});
+];
+
+// TODO: Create a function to write README file
+function writeToFile(file, data) {
+    fs.writeFileSync(`README.md`, data, (err) => err ? console.error(err) : console.log("Your file was created successfully!"));
+};
+
+// TODO: Create a function to initialize app
+function init() {
+    try {
+        const answers = inquirer.prompt(questions);
+        const genStructure = markdown(answers);
+        writeToFile(answers.file, genStructure)
+    } catch(err) {
+        console.log(err);
+    }
+}
+
+// Function call to initialize app
+init();
