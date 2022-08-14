@@ -12,6 +12,11 @@ const questions = [
     },
     {
         type: 'input',
+        message: 'What is your full name?',
+        name: 'userName',
+    },
+    {
+        type: 'input',
         message: 'What is your project description?',
         name: 'description',
     },
@@ -37,9 +42,9 @@ const questions = [
     },
     {
         type: 'list',
-        message: 'license something',
+        message: 'Pick your license:',
         name: 'license',
-        choices: ['ASL', 'Spanish', 'English', 'French', 'Arabic', 'Mandarin', 'German']
+        choices: ['MIT', 'Apache 2.0', 'BSD-3-Clause', 'GPL-3.0']
     },
     {
         type: 'input',
@@ -52,9 +57,10 @@ const questions = [
         name: 'github',
     },
     {
-        type: 'input',
-        message: 'List any guidelines on how other developers can contribute to this project:',
+        type: 'list',
+        message: 'Would you like to allow contributions?',
         name: 'contribute',
+        choices: ['yes', 'no']
     },
     {
         type: 'input',
