@@ -16,7 +16,7 @@
   ## Usage
   The following is a link to a video of how to use the program.
 
-  <iframe src="https://drive.google.com/file/d/1oTf01NuNTxd4D2SjkZjApGXRM1BZ4MZU/preview" width="640" height="480"></iframe>
+  https://drive.google.com/file/d/1oTf01NuNTxd4D2SjkZjApGXRM1BZ4MZU/preview
   
   ## Credits
   Worked through this project with help from Jerrod Linderman.
