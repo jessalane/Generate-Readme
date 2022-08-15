@@ -13,13 +13,10 @@
   [Credits](#credits)\
   [License](#license)
 
-  ## Installation
-  to come
-
   ## Usage
   The following is a link to a video of how to use the program.
 
-  ![project video](to come)
+  ![project video](./video/ReadMe%20Generator.webm)
   
   ## Credits
   Worked through this project with help from Jerrod Linderman.
