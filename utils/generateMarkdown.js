@@ -160,10 +160,10 @@ function genMarkdown(data) {
   ${data.description}
 
   ## Table of Contents
-    [Installation](#installation)\n
-    [Usage](#usage)\n
-    [Credits](#credits)\n
-    [License](#license)
+  [Installation](#installation)\n
+  [Usage](#usage)\n
+  [Credits](#credits)\n
+  [License](#license)
 
   ## Installation
   ${data.installation}
