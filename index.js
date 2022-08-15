@@ -72,7 +72,7 @@ const questions = [
 // function to write data to a readme file
 function writeToFile(data) {
     fs.writeFileSync(`README.md`, data, (err) =>
-    err ? console.log(err) : console.log('Success!'));
+    err ? console.error(err) : console.log('File created successfully!'));
 };
 
 // initialize funciton to run the questions

@@ -8,10 +8,10 @@
   This is a node based program that will generate a professional readme file. There is an option of 4 different free licenses to chose from, that will generate for you. It will input descriptions, auto populate a table of contents, installatin instructions, usage instructions, a screenshot, credits, questions, contributions, and tests.
 
   ## Table of Contents
-      - [Installation](#installation)
-      - [Usage](#usage)
-      - [Credits](#credits)
-      - [License](#license)
+  [Installation](#installation)\
+  [Usage](#usage)\
+  [Credits](#credits)\
+  [License](#license)
 
   ## Installation
   to come
