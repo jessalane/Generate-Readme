@@ -7,8 +7,7 @@
   ## Table of Contents
   [Installation](#installation)\
   [Usage](#usage)\
-  [Credits](#credits)\
-  [License](#license)
+  [Credits](#credits)
 
   ## Usage
   The following is a link to a video of how to use the program.
