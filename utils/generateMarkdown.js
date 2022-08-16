@@ -170,7 +170,7 @@ function genMarkdown(data) {
 
   ## Usage
   ${data.usage}\n
-  ![project screenshot](${data.screenshot})
+  https://drive.google.com/file/d/1LtQsdUI97QoKG1YD5rXQQYBy-_nK-YLJ/view
   
   ## Credits
   ${data.credits}

@@ -1,54 +1,61 @@
 
-  # Readme Generator
-  ![license badge](https://img.shields.io/badge/License-gpl-blue.svg)
+  # Title Here  ![license badge](https://img.shields.io/badge/License-MIT-blue.svg)
 
   -------
 
+
   ## Description
-  This is a node based program that will generate a professional readme file. There is an option of 4 different free licenses to chose from, that will generate for you. It will input descriptions, auto populate a table of contents, installatin instructions, usage instructions, a screenshot, credits, questions, contributions, and tests.
+  Brief description of your project
 
   ## Table of Contents
-  [Installation](#installation)\
-  [Usage](#usage)\
-  [Credits](#credits)\
+  [Installation](#installation)
+
+  [Usage](#usage)
+
+  [Credits](#credits)
+
   [License](#license)
 
-  ## Usage
-  The following is a link to a video of how to use the program.
+  ## Installation
+  Any installation instructions for users here
 
-  ![project video](./video/ReadMe%20Generator.webm)
+  ## Usage
+  Any usage instructions here
+
+  ![project screenshot](link to screenshot, or filler text to replace later)
   
   ## Credits
-  Worked through this project with help from Jerrod Linderman.
+  List anyone that contributed here
 
   ## License
   
-      Readme Generator
-        Copyright (C) 2022 Jessica Lane
+Copyright 2022 Jane Doe
 
-        This program is free software: you can redistribute it and/or modify
-        it under the terms of the GNU General Public License as published by
-        the Free Software Foundation, either version 3 of the License, or
-        (at your option) any later version.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-        This program is distributed in the hope that it will be useful,
-        but WITHOUT ANY WARRANTY; without even the implied warranty of
-        MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-        GNU General Public License for more details.
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-        You should have received a copy of the GNU General Public License
-        along with this program.  If not, see http://www.gnu.org/licenses/.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
       
 
-  [GPL-3.0](https://opensource.org/licenses/GPL-3.0)
-
+  [MIT](https://opensource.org/licenses/MIT)
 
   ---
 
   ## Questions
   If you have further questions please reach out to me through the methods listed below:
 
-  email: jessica.lane.a@gmail.com
+  email: email@domain.com
 
-  GitHub: jessalane
+  GitHub: nameGitHub
+
+  
+## How to Contribute
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
+---
+To learn more about contributing, see the following link:
+The [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md)
+      
+  ## Tests
+  any application tests listed here
   
