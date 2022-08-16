@@ -16,7 +16,7 @@
   ## Usage
   The following is a link to a video of how to use the program.
 
-  https://drive.google.com/file/d/1oTf01NuNTxd4D2SjkZjApGXRM1BZ4MZU/view
+  https://drive.google.com/file/d/1LtQsdUI97QoKG1YD5rXQQYBy-_nK-YLJ/view
   
   ## Credits
   Worked through this project with help from Jerrod Linderman.
