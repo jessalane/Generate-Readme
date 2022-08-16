@@ -1,5 +1,6 @@
 
-  # ReadMe Demo  ![license badge](https://img.shields.io/badge/License-bsd-blue.svg)
+  # ReadMe Demo  
+  ![license badge](https://img.shields.io/badge/License-bsd-blue.svg)
 
   -------
 
