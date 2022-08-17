@@ -1,5 +1,3 @@
-
-<<<<<<< HEAD
   # readme demo
 
   ![license badge](https://img.shields.io/badge/License-gpl-blue.svg)
