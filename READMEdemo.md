@@ -23,7 +23,7 @@
   ## Usage
   Here you would list the usage instructions, which appear above the screenshot
 
-  [screenshot](https://drive.google.com/file/d/1LtQsdUI97QoKG1YD5rXQQYBy-_nK-YLJ/view)
+  [screenshot](https://i.ibb.co/N6kmR70/2019-02-04-09h45-38.png)
   
   ## Credits
   List anyone who contributed, any of their contact information, tutorials used, or third party assets included.
