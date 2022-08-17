@@ -152,7 +152,7 @@ along with this program.  If not, see http://www.gnu.org/licenses/.
 // function to generate readme markdown
 function genMarkdown(data) {
   return `
-  # ${data.title}\
+  # ${data.title}\n
   ![license badge](${renderLicenseBadge(data.license)})\n
   -------\n
 
@@ -170,7 +170,7 @@ function genMarkdown(data) {
 
   ## Usage
   ${data.usage}\n
-  https://drive.google.com/file/d/1LtQsdUI97QoKG1YD5rXQQYBy-_nK-YLJ/view
+  [screenshot](${data.screenshot})
   
   ## Credits
   ${data.credits}
