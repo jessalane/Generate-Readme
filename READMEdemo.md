@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
   # readme demo
 
   ![license badge](https://img.shields.io/badge/License-gpl-blue.svg)
@@ -31,7 +32,7 @@
 
   ## License
   
-      readme demo
+readme demo
 Copyright (C) 2022 Jane Doe
 
 This program is free software: you can redistribute it and/or modify
@@ -67,5 +68,4 @@ To learn more about contributing, see the following link:
 The [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md)
       
   ## Tests
-  HEre you would list any tests you created for this application
-  
+  Here you would list any tests for the application.
